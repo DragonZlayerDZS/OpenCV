@@ -1,10 +1,10 @@
 # OpenCV
 I'm learning how to use OpenCV. I'll put some programs here that I make or use for OpenCV
-# Overview
+## Overview
 I'll put some programs here for detecting faces, eyes, mouths, etc. I might also add some kind of action for it to do when it sees a certain face(like send a message, record, or anything else).
-# Comments/Feedback
+## Comments/Feedback
 If you have any feedback or comments for me feel free to tell me here or email me at `ogttv.streamerbtw7@gmail.com`
-# Programs and folders
+## Programs and folders
 `cascades` folder has default files to identify a face(not recognize, identifying just means it'll tell you when it sees a face)
 
 `images` folder is where you put the folders of peoples faces.
@@ -28,9 +28,9 @@ If you have any feedback or comments for me feel free to tell me here or email m
 `res-change` program that changes the resolution of the camera and can be implemented into the `faces.py` file
 
 `trainer.yml` trains the facial recognition program with what faces to recognize
-# How to close frames
+## How to close frames
 Press `q` on any frame to close all that are open.
-# How to use
+## How to use
 ### Initial Startup
 
 Take some pictures of people you want it to recognize(the more pictures you have per person, the higher the accuracy will be). Separate the pictures into folders named after the people. Put the folders in the `images` folder. 
